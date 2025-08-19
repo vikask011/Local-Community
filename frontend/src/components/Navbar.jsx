@@ -72,7 +72,7 @@ const Navbar = () => {
     <Link
       to="/create"
       onClick={() => setIsOpen(false)}
-      className="bg-gray-600 text-white px-4 py-2 rounded-full font-semibold hover:bg-gray-400 transition-colors duration-300"
+      className="hover:pl-2 transition-all duration-300"
     >
       Create Event
     </Link>

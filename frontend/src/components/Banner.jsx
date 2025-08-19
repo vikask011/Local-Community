@@ -6,7 +6,7 @@ const images = [
   { url: "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg", text: "Sports", desc: "Play, compete, and enjoy sports with your community." },
   { url: "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg", text: "Entertainment", desc: "Experience music, comedy nights, and live shows." },
   { url: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg", text: "Workshop", desc: "Learn new skills in interactive workshops." },
-  { url: "https://images.pexels.com/photos/814544/pexels-photo-814544.jpeg", text: "Meetup", desc: "Connect with like-minded people and share ideas." },
+  { url: "https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg", text: "Meetup", desc: "Connect with like-minded people and share ideas." },
   { url: "https://images.pexels.com/photos/3280130/pexels-photo-3280130.jpeg", text: "Social", desc: "Be part of meaningful social impact activities." },
 ];
 
